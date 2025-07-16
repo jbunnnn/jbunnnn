@@ -1,9 +1,8 @@
-https://github.com/jbunnnn/jbunnnn/blob/main/assets/rajib-banner.png?raw=true
+<img width="1536" height="1024" alt="rajib-baner" src="https://github.com/user-attachments/assets/72fcadbc-fdc6-4234-89c8-4682a1a630db" />
+
 <p align="center">
   <img src="https://github.com/jbunnnn/jbunnnn/blob/main/assets/rajib-banner.png?raw=true" alt="Rajib Zidan Banner" />
 </p>
-
-
 
 <h1 align="center">Hey there 👋, I'm Rajib Zidan</h1>
 
