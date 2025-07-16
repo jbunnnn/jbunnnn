@@ -59,9 +59,6 @@ A few personal projects I've worked on recently:
 - [EthicoPredict](https://github.com/jbunnnn/EthicoPredict)  
   A small experiment in creating interpretable AI predictions using SHAP. Built with scikit-learn and Streamlit.
 
-- [AI CLI Utils](https://github.com/jbunnnn/ai-cli-utils) *(WIP)*  
-  Collection of minimalist command-line tools for AI workflows — from data prep to quick inference.
-
 ---
 
 ## GitHub Stats
