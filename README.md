@@ -100,7 +100,7 @@ A few personal projects I've worked on recently:
 
 ## Let's Connect
 
-I'm based in Bogor, Indonesia — and always open to collaboration or just chatting about ideas, especially in AI, data, or creative problem-solving.
+I'm based in Bogor, Indonesia and always open to collaboration or just chatting about ideas, especially in AI, data, or creative problem-solving.
 
 - [LinkedIn](https://www.linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3)
 
