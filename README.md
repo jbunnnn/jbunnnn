@@ -13,7 +13,7 @@ I’m currently pursuing my undergraduate studies at IPB University, focusing on
 
 Over the last few months, I’ve been immersing myself in machine learning and ethical AI. I care a lot about building solutions that don’t just “work,” but are responsible, explainable, and genuinely useful.
 
-I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script — I love the process of solving problems through code.
+I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script I love the process of solving problems through code.
 
 Right now, I’m exploring topics like:
 
@@ -73,21 +73,23 @@ A few personal projects I've worked on recently:
 
 ---
 
-## Certifications
 
-- **Cisco CCNA 1 & 2**  
+## 📄 Certifications
+
+- <img src="https://img.shields.io/badge/Cisco-CCNA%201%20%26%202-1ba0d7?style=flat-square&logo=cisco&logoColor=white" height="20"/>  
   [View Certificate](https://www.netacad.com/certificates?issuanceId=fa3976b1-a886-46f0-b428-ab20cbdf4bb1)  
   Covers networking fundamentals, IP addressing, subnetting, and switching.
 
-- **AWS Cloud Academy (Foundations)**  
+- <img src="https://img.shields.io/badge/AWS%20Cloud%20Academy-Foundations-F29100?style=flat-square&logo=amazonaws&logoColor=white" height="20"/>  
   [View on Credly](https://www.credly.com/badges/41c21a3a-11a6-4cbc-aeef-490a5c4a515b/public_url)  
   Introduced me to cloud services, IAM, and how AI services are deployed at scale.
 
-- **SIAMOLEC Competency Certificate**  
+- <img src="https://img.shields.io/badge/SIAMOLEC-Digital%20Competency-0c7f85?style=flat-square&logo=internet-explorer&logoColor=white" height="20"/>  
   [View Folder](https://drive.google.com/drive/folders/1mvML-bwPMUisofjXcnIjeqtZLq884UBv)  
   A national certification for digital literacy and IT skills.
 
 ---
+
 
 ## Let's Connect
 
