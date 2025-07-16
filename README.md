@@ -1,3 +1,10 @@
+<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/7942f7cb-0628-4cfb-bf1c-e877c4ce7aab" />
+<p align="center">
+  <img src="https://github.com/jbunnnn/jbunnnn/blob/main/assets/rajib-banner.png?raw=true" alt="Rajib Zidan Banner" />
+</p>
+
+
+
 <h1 align="center">Hey there 👋, I'm Rajib Zidan</h1>
 
 <p align="center">
