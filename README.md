@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/72fcadbc-fdc6-4234-89c8-4682a1a630db" alt="rajib-banner" width="900"/>
 </p>
 
-<h1 align="center">Hey there 👋, I'm Rajib Zidan</h1>
-
 <p align="center">
   🎓 Computer Engineering Technology Student at IPB University<br/>
   Future AI/ML Engineer • Python Enthusiast • Builder of Meaningful Tools
