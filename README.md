@@ -1,4 +1,4 @@
-<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/7942f7cb-0628-4cfb-bf1c-e877c4ce7aab" />
+https://github.com/jbunnnn/jbunnnn/blob/main/assets/rajib-banner.png?raw=true
 <p align="center">
   <img src="https://github.com/jbunnnn/jbunnnn/blob/main/assets/rajib-banner.png?raw=true" alt="Rajib Zidan Banner" />
 </p>
