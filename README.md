@@ -1,37 +1,37 @@
-<h1 align="center">Hi there, I'm Rajib Zidan 👋</h1>
+<h1 align="center">Hey there, I'm Rajib Zidan</h1>
 
 <p align="center">
   <b>Computer Engineering Technology Student at IPB University</b><br/>
-  🌱 Always learning, always building.
+  Passionate about tech, data, and building cool things.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍🎓 About Me
 
-- 🎓 I'm currently studying Computer Engineering Technology at IPB University.
--  I'm passionate about AI, Data Science, and Software Development.
--  Currently learning about model interpretability, ethical AI, and Python automation.
--  I enjoy solving problems and building tools that help people.
-
----
-
-## 🛠 Tech Stack
-
--  **Languages:** Python, C++, JavaScript (basic), SQL
--  **Libraries & Tools:** Pandas, NumPy, scikit-learn, matplotlib, Jupyter Notebook
--  **Tools & Platforms:** VSCode, Git, GitHub, Google Colab
-- ☁ **Learning:** Docker, Streamlit, FastAPI
+- I'm currently studying Computer Engineering Technology at IPB University.
+- Super interested in AI, data science, and creative software development.
+- Lately exploring model interpretability, ethical AI, and Python automation.
+- I enjoy building tools that solve real problems and make life a bit easier.
 
 ---
 
-## 📌 Pinned Projects
+## 💻 Tech Stack
 
--  [AAPL Stock Prediction](https://github.com/jbunnnn/Analysis-and-Prediction-of-Apple-AAPL--)  
-  Predicting Apple stock prices using time-series & ML.
+- **Languages:** Python, C++, JavaScript (basic), SQL  
+- **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, matplotlib, Jupyter Notebook  
+- **Tools & Platforms:** VSCode, Git, GitHub, Google Colab  
+- **Currently Learning:** Streamlit, Docker, FastAPI
 
--  [EthicoPredict](https://github.com/jbunnnn/EthicoPredict)  
-  Ethical prediction project using Python & scikit-learn.
+---
+
+## 📂 Projects I’m Proud Of
+
+- [`AAPL Stock Prediction`](https://github.com/jbunnnn/Analysis-and-Prediction-of-Apple-AAPL--)  
+  Predicting Apple stock prices using machine learning & time-series data.
+
+- [`EthicoPredict`](https://github.com/jbunnnn/EthicoPredict)  
+  A lightweight ethical ML project with explainable predictions.
 
 ---
 
@@ -44,12 +44,12 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3)
-- 🏫 Institut Pertanian Bogor, Kota Bogor  
-- 📬 Open for collaborations and projects!
+- [LinkedIn](https://www.linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3)  
+- Based in Bogor, Indonesia  
+- Always up for collaboration or just chatting about ideas
 
 ---
 
-> "Stay curious. Keep building. Break things. Learn fast." 🚀
+> “Stay curious and keep building.” 🛠️
