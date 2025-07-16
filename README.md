@@ -13,7 +13,7 @@ I’m currently pursuing my undergraduate studies at IPB University, focusing on
 
 Over the last few months, I’ve been immersing myself in machine learning and ethical AI. I care a lot about building solutions that don’t just "work," but are responsible, explainable, and genuinely useful.
 
-I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script — I love the process of solving problems through code.
+I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script I love the process of solving problems through code.
 
 Right now, I’m exploring topics like:
 
