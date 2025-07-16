@@ -11,9 +11,9 @@
 
 I’m currently pursuing my undergraduate studies at IPB University, focusing on computer engineering and applied technologies.
 
-Over the last few months, I’ve been immersing myself in machine learning and ethical AI. I care a lot about building solutions that don’t just “work,” but are responsible, explainable, and genuinely useful.
+Over the last few months, I’ve been immersing myself in machine learning and ethical AI. I care a lot about building solutions that don’t just "work," but are responsible, explainable, and genuinely useful.
 
-I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script I love the process of solving problems through code.
+I enjoy turning concepts into tools, especially with Python. Whether it's a Jupyter notebook, a FastAPI microservice, or a quick automation script — I love the process of solving problems through code.
 
 Right now, I’m exploring topics like:
 
@@ -71,8 +71,19 @@ A few personal projects I've worked on recently:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbunnnn&layout=compact&theme=react" height="160"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jbunnnn&theme=algolia&row=2&column=4&no-bg=true&margin-w=10&margin-h=15"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbunnnn&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbunnnn&theme=github-dark-blue&hide_border=true" height="150"/>
+</p>
+
+---
 
 ## 📄 Certifications
 
@@ -90,7 +101,6 @@ A few personal projects I've worked on recently:
 
 ---
 
-
 ## Let's Connect
 
 I'm based in Bogor, Indonesia — and always open to collaboration or just chatting about ideas, especially in AI, data, or creative problem-solving.
@@ -99,4 +109,4 @@ I'm based in Bogor, Indonesia — and always open to collaboration or just chatt
 
 ---
 
-_“Think deeply. Build ethically. Automate wisely.”_
+_"Think deeply. Build ethically. Automate wisely."_
