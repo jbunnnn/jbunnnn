@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/72fcadbc-fdc6-4234-89c8-4682a1a630db" alt="rajib-banner" width="900"/>
-</p>
+<img width="1920" height="1080" alt="Blue Tech Futuristic Artificial Intelligence Video" src="https://github.com/user-attachments/assets/eb6bfa7d-ae94-451b-a6c4-1548c814a013" />
 
 <p align="center">
   🎓 Computer Engineering Technology Student at IPB University<br/>
