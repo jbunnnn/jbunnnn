@@ -1,6 +1,6 @@
 <p align="center"><img width="1584" height="396" alt="rajib-banner-github" src="https://github.com/user-attachments/assets/41709212-d2fa-4e8e-a0d1-e42812e67a27" />
 
-  <p>🎓 Computer Engineering Technology Student at IPB University<br/>
+  <p align="center">🎓 Computer Engineering Technology Student at IPB University<br/>
   Future AI/ML Engineer • Python Enthusiast • Builder of Meaningful Tools
 </p>
 
