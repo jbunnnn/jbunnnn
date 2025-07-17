@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="Blue Tech Futuristic Artificial Intelligence Video" src="https://github.com/user-attachments/assets/eb6bfa7d-ae94-451b-a6c4-1548c814a013" />
+<p align="center">
+  <img src="./23552b62-6c62-49fb-a8e0-2084994d7a0d.png" alt="Rajib Zidan Banner" width="800"/>
+</p>
 
 <p align="center">
   🎓 Computer Engineering Technology Student at IPB University<br/>
