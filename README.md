@@ -1,7 +1,5 @@
+<p align="center"><img width="1584" height="396" alt="rajib-banner-github" src="https://github.com/user-attachments/assets/41709212-d2fa-4e8e-a0d1-e42812e67a27" />
 
-<img width="1584" height="396" alt="Purple Gradient Typographic Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/3b614399-a6c6-427a-920b-87ca78b21e2d" />
-
-<p align="center">
   🎓 Computer Engineering Technology Student at IPB University<br/>
   Future AI/ML Engineer • Python Enthusiast • Builder of Meaningful Tools
 </p>
