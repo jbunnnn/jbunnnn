@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./23552b62-6c62-49fb-a8e0-2084994d7a0d.png" alt="Rajib Zidan Banner" width="800"/>
-</p>
+
+<img width="1584" height="396" alt="Purple Gradient Typographic Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/3b614399-a6c6-427a-920b-87ca78b21e2d" />
 
 <p align="center">
   🎓 Computer Engineering Technology Student at IPB University<br/>
