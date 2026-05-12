@@ -133,23 +133,16 @@ Fokus: thought process dan methodology, bukan sekadar flag.
 ## `> contact --info`
 
 ```python
-## `> establish_connection`
-
-```bash
-[STATUS] Secure channel established.
-
-LinkedIn :
-linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3
-
-Location :
-Bogor, Indonesia
-
-Open for:
-- Red Team Learning
-- Security Collaboration
-- CTF Teams
-- Internship Opportunities
-```
+contact = {
+    "linkedin": "linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3",
+    "location": "Bogor, Indonesia",
+    "open_to": [
+        "CTF teams",
+        "Security research collaboration",
+        "Internship in offensive security",
+        "Open source security tools"
+    ]
+}
 ```
 
 ---
