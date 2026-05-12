@@ -117,12 +117,11 @@ Fokus: thought process dan methodology, bukan sekadar flag.
 
 <div align="center">
 
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbunnnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbunnnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbunnnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbunnnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9"/>
 
 </div>
-
 ---
 
 ## `> contact --info`
