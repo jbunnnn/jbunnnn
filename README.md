@@ -18,7 +18,8 @@ NAME="Rajib Zidan Rusdiansyah"
 ROLE="Aspiring Red Teamer & Penetration Tester"
 UNIVERSITY="IPB University — Computer Engineering Technology"
 LOCATION="Bogor, Indonesia"
-STATUS="Breaking things to understand how they work"
+FOCUS="Offensive Security, Enumeration, and Adversarial Thinking"
+STATUS="Breaking systems to understand and secure them"
 ```
 
 </div>
@@ -37,11 +38,11 @@ Gue percaya bahwa jadi security professional yang baik butuh **hacker mindset**:
 
 **Offensive Security**
 ```
-Web Application Pentesting    ████████░░  80%
-Network Pentesting            ███████░░░  70%
-Linux Privilege Escalation    ███████░░░  70%
-Active Directory Attacks      █████░░░░░  50%
-Malware Analysis / RE         ████░░░░░░  40%
+Web Application Pentesting    ████████░░  Intermediate
+Network Pentesting            ███████░░░  Intermediate
+Linux Privilege Escalation    ███████░░░  Intermediate
+Active Directory Attacks      █████░░░░░  Learning
+Malware Analysis / RE         ████░░░░░░  Beginner
 ```
 
 **Tooling**
