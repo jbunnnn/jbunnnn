@@ -76,7 +76,7 @@ I enjoy learning by building labs, breaking vulnerable machines, automating repe
 
 # Projects & Labs
 
-### 🔴 Offensive Security Lab
+###  Offensive Security Lab
 Personal penetration testing lab environment for practicing:
 - Enumeration
 - Exploitation
@@ -86,7 +86,7 @@ Personal penetration testing lab environment for practicing:
 
 ---
 
-### 🛠️ Recon Automation Scripts
+###  Recon Automation Scripts
 Python and Bash scripts for:
 - Subdomain enumeration
 - Port scanning workflows
@@ -95,7 +95,7 @@ Python and Bash scripts for:
 
 ---
 
-### 🌐 Web Pentesting Practice
+###  Web Pentesting Practice
 Practice projects focused on:
 - Authentication flaws
 - File upload vulnerabilities
@@ -105,7 +105,7 @@ Practice projects focused on:
 
 ---
 
-### 📊 Security Monitoring Playground
+### Security Monitoring Playground
 Small monitoring setup using:
 - ELK Stack
 - Syslog
@@ -139,7 +139,7 @@ Small monitoring setup using:
 
 # Let's Connect
 
-📍 Bogor, Indonesia
+ Bogor, Indonesia
 
 I’m open to:
 - Cybersecurity collaborations
