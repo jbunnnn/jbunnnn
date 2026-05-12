@@ -1,157 +1,151 @@
-<p align="center">
-  <img width="1584" height="396" alt="rajib-banner-github" src="https://github.com/user-attachments/assets/41709212-d2fa-4e8e-a0d1-e42812e67a27" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Rajib Zidan 👋</h1>
+```
+██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║
+██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<p align="center">
-🎓 Computer Engineering Technology Student at IPB University <br/>
-🔴 Aspiring Red Teamer • Penetration Tester • Cybersecurity Enthusiast
-</p>
+### `whoami`
 
----
+```bash
+$ cat /etc/profile.d/rajib.sh
 
-# About Me
+NAME="Rajib Zidan Rusdiansyah"
+ROLE="Aspiring Red Teamer & Penetration Tester"
+UNIVERSITY="IPB University — Computer Engineering Technology"
+LOCATION="Bogor, Indonesia"
+STATUS="Breaking things to understand how they work"
+```
 
-I’m an undergraduate student at IPB University with a strong passion for cybersecurity, especially in the field of **Red Teaming and Penetration Testing**.
-
-My journey started from networking, Linux administration, and system infrastructure during vocational school, then evolved into a deeper interest in offensive security — understanding how systems break, how attackers think, and how security weaknesses can be identified before they are exploited.
-
-Currently, I’m focusing on developing practical skills in:
-
-- Web Application Penetration Testing
-- Network Penetration Testing
-- Linux & Active Directory Enumeration
-- Privilege Escalation Techniques
-- Vulnerability Assessment & Exploitation
-- Red Team Methodology & OPSEC
-- Scripting & Automation with Python/Bash
-- Basic Malware Analysis & Reverse Engineering
-- CTF Challenges and Lab Environments
-
-I enjoy learning by building labs, breaking vulnerable machines, automating repetitive tasks, and documenting findings. My goal is to become a highly technical offensive security professional capable of performing realistic security assessments and adversary simulations.
+</div>
 
 ---
 
-# Tech Stack
+## `> about --verbose`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
-  <br/>
+Mahasiswa teknik komputer yang obsesi sama **offensive security**. Journey gue mulai dari networking dan Linux admin waktu SMK, sekarang fokus ke sisi yang lebih gelap — gimana sistem bisa dibobol, gimana attacker berpikir, dan gimana nemuin celah sebelum orang lain menemukannya duluan.
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-CC293D?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</p>
+Gue percaya bahwa jadi security professional yang baik butuh **hacker mindset**: selalu questioning assumptions, thinking adversarially, dan never stop enumerating.
 
 ---
 
-# Current Focus
+## `> skills --list`
 
-- Studying penetration testing methodologies and real-world attack paths
-- Practicing enumeration and privilege escalation in Linux environments
-- Building home labs for offensive security practice
-- Learning web exploitation and Active Directory attacks
-- Improving scripting and automation for reconnaissance workflows
-- Participating in CTFs and vulnerable machine labs
+**Offensive Security**
+```
+Web Application Pentesting    ████████░░  80%
+Network Pentesting            ███████░░░  70%
+Linux Privilege Escalation    ███████░░░  70%
+Active Directory Attacks      █████░░░░░  50%
+Malware Analysis / RE         ████░░░░░░  40%
+```
 
----
+**Tooling**
 
-# Projects & Labs
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-black?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-red?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square)
 
-###  Offensive Security Lab
-Personal penetration testing lab environment for practicing:
-- Enumeration
-- Exploitation
-- Privilege escalation
-- Pivoting
-- Basic Active Directory attacks
+**Scripting & Infra**
 
----
-
-###  Recon Automation Scripts
-Python and Bash scripts for:
-- Subdomain enumeration
-- Port scanning workflows
-- Service detection
-- Automated recon pipelines
-
----
-
-###  Web Pentesting Practice
-Practice projects focused on:
-- Authentication flaws
-- File upload vulnerabilities
-- SQL Injection
-- XSS
-- Misconfiguration analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### Security Monitoring Playground
-Small monitoring setup using:
-- ELK Stack
-- Syslog
-- Basic log analysis
-- Threat visibility experiments
+## `> projects --show`
+
+### 🔴 [`pentest-homelab`]
+Lab environment pribadi untuk simulasi serangan end-to-end.
+Scope: enumeration → exploitation → privesc → pivoting → AD attacks.
+> Stack: VirtualBox · Kali · Windows Server · Vulnerable VMs
+
+### 🛠️ [`recon-toolkit`]
+Koleksi script Python/Bash untuk otomasi fase recon.
+- Subdomain enumeration + DNS bruteforce
+- Port scan orchestration (Nmap wrapper)
+- Automated service fingerprinting
+- Output formatting untuk reporting
+
+### 🌐 [`web-vuln-lab`]
+Dokumentasi praktek web pentesting dari DVWA, PortSwigger, dan custom app.
+Coverage: SQLi · XSS · IDOR · File Upload · Auth Bypass · SSRF
+
+### 📋 [`ctf-writeups`]
+Writeup dari CTF challenges dan HTB/THM machines yang sudah diselesaikan.
+Fokus: thought process dan methodology, bukan sekadar flag.
 
 ---
 
-# Certifications & Learning
+## `> platforms --stats`
 
-- Cisco CCNA 1 & 2
-- AWS Cloud Foundations
-- Currently learning:
-  - Red Team Operations
-  - Web Application Security
-  - Linux Privilege Escalation
-  - Active Directory Fundamentals
-  - Basic Reverse Engineering
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rajibzidan)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/)
+
+</div>
 
 ---
 
-# Goals
+## `> certs --list`
 
-- Build strong fundamentals in offensive security
-- Gain real-world penetration testing experience
-- Contribute to cybersecurity projects and communities
-- Pursue industry certifications in security and pentesting
-- Continuously improve technical depth and problem-solving skills
-
----
-
-# Let's Connect
-
- Bogor, Indonesia
-
-I’m open to:
-- Cybersecurity collaborations
-- CTF teams
-- Security projects
-- Internship opportunities
-- Learning opportunities in offensive security
-
-- LinkedIn: [Rajib Zidan Rusdiansyah](https://www.linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3)
+```
+[✓] Cisco CCNA 1 & 2
+[✓] AWS Cloud Foundations
+[~] OSCP Prep (in progress)
+[~] eJPT / CEH (target: 2025)
+[ ] CRTO — Red Team Ops (roadmap)
+```
 
 ---
 
-<p align="center">
-  <i>"Think like an attacker. Defend like an engineer."</i>
-</p>
+## `> github --stats`
+
+<div align="center">
+
+![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajibzidan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibzidan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9)
+
+</div>
+
+---
+
+## `> contact --info`
+
+```python
+contact = {
+    "linkedin": "linkedin.com/in/rajib-zidan-rusdiansyah-7966ab2b3",
+    "location": "Bogor, Indonesia",
+    "open_to": [
+        "CTF teams",
+        "Security research collaboration",
+        "Internship in offensive security",
+        "Open source security tools"
+    ]
+}
+```
+
+---
+
+<div align="center">
+
+*"The quieter you become, the more you are able to hear."*
+*— Kali Linux*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rajibzidan&color=red&style=flat-square&label=profile+views)
+
+</div>
