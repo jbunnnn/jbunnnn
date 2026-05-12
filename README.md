@@ -117,9 +117,15 @@ Fokus: thought process dan methodology, bukan sekadar flag.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbunnnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbunnnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbunnnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbunnnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbunnnn&theme=dark&hide_border=true&background=0D1117&stroke=ff4444&ring=ff4444&fire=ff4444&currStreakLabel=ff4444"/>
 
 </div>
 ---
