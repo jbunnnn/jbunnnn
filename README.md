@@ -107,7 +107,7 @@ Fokus: thought process dan methodology, bukan sekadar flag.
 [✓] Cisco CCNA 1 & 2
 [✓] AWS Cloud Foundations
 [~] OSCP Prep (in progress)
-[~] eJPT / CEH (target: 2025)
+[~] eJPT / CEH (target: 2026)
 [ ] CRTO — Red Team Ops (roadmap)
 ```
 
